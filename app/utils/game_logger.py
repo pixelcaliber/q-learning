@@ -16,7 +16,6 @@ class GameLogger:
                 "player": player,
                 "move": move,
                 "board_before": board_before.copy(),
-                "timestamp": datetime.utcnow().isoformat(),
             }
         )
 
