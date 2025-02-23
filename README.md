@@ -45,6 +45,7 @@ Q-learning is a type of reinforcement learning algorithm where an agent learns t
 ## Running the Project
 
 - **Backend Setup:**
-     - Install dependencies: `pip install -r requirements.txt`
-     - Set up configuration (e.g., `Config.RATE_LIMIT_STORAGE_URL`, `MODEL_SAVE_PATH`).
-     - Run the Flask app: `flask run`
+ - Install dependencies: `pip install -r requirements.txt`
+ - Set up configuration (e.g., `Config.RATE_LIMIT_STORAGE_URL`, `MODEL_SAVE_PATH`).
+ - Run the Flask app: `flask run`
+- **Frontend**: https://github.com/pixelcaliber/t3-ai/blob/master/README.md
